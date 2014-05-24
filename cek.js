@@ -1,2 +1,0 @@
-alert("lallalala");
-alert("lallalala");
