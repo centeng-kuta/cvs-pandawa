@@ -1,5 +1,6 @@
-cvs-pandawa
-===========
+mkdir ~/cvs-pandawa
 
 
-# cek readme
+cd ~/cvs-pandawa
+
+git init
